@@ -1,0 +1,20 @@
+name: Translate Documents
+on:
+  push:
+    paths:
+      - 'docs/**/*.md'
+    branches:
+      - jp_main  # Thay đổi branch từ main sang jp_main
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Display notification
+        run: |
+          echo "🔔 Đã phát hiện push lên branch jp_main"
+          echo "📁 Các file markdown trong thư mục docs đã được thay đổi"
+          
+      # ... phần code còn lại giữ nguyên ...
