@@ -1,0 +1,24 @@
+name: PR Notification
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [opened, reopened, synchronize]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send notification
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = context.payload.pull_request;
+            const message = `
+            🔔 New PR Alert!
+            Title: ${pr.title}
+            Author: ${pr.user.login}
+            URL: ${pr.html_url}
+            `;
+            console.log(message); 
