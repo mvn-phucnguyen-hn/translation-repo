@@ -17,13 +17,13 @@ jobs:
           echo "🔔 Đã phát hiện push lên branch jp_main"
           echo "📁 Các file markdown trong thư mục docs đã được thay đổi"
           
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
-          base: main
-          branch: jp_main
-          title: ${{ github.event.head_commit.message }}
-          body: |
-            PR tự động được tạo từ commit: ${{ github.event.head_commit.message }}
-            Branch nguồn: jp_main
+    #   - name: Create Pull Request
+    #     uses: peter-evans/create-pull-request@v5
+    #     with:
+    #       token: ${{ secrets.PAT_TOKEN }}
+    #       base: main
+    #       branch: jp_main
+    #       title: ${{ github.event.head_commit.message }}
+    #       body: |
+    #         PR tự động được tạo từ commit: ${{ github.event.head_commit.message }}
+    #         Branch nguồn: jp_main
