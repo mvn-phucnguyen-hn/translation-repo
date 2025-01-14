@@ -14,6 +14,7 @@ Tài liệu này sẽ hướng dẫn bạn cách sử dụng cơ bản của h�
 2. Cài đặt các gói phụ thuộc
 3. Chỉnh sửa file cấu hình
 4. Khởi chạy ứng dụng
+5. Setting demo
 
 ## Hỗ trợ
 Nếu bạn gặp bất kỳ vấn đề nào, đừng ngần ngại liên hệ với chúng tôi.
