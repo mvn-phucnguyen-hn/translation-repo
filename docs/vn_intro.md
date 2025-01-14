@@ -4,9 +4,6 @@
 Tài liệu này sẽ hướng dẫn bạn cách sử dụng cơ bản của hệ thống.
 
 ## Tính năng chính
-- Cài đặt đơn giản
-- Giao diện thân thiện
-- Hỗ trợ đa ngôn ngữ
 
 ## Hướng dẫn cài đặt
 1. Clone repository
