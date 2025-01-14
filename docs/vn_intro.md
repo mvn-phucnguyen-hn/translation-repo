@@ -7,7 +7,6 @@ Tài liệu này sẽ hướng dẫn bạn cách sử dụng cơ bản của h�
 - Cài đặt đơn giản
 - Giao diện thân thiện
 - Hỗ trợ đa ngôn ngữ
-- Cập nhật thời gian thực
 
 ## Hướng dẫn cài đặt
 1. Clone repository
