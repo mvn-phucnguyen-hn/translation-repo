@@ -7,7 +7,7 @@ Tài liệu này sẽ hướng dẫn bạn cách sử dụng cơ bản của h�
 - Giao diện thân thiện
 - Hỗ trợ đa ngôn ngữ
 - Tính năng phụ
-- Giải thích về các tính năng chung
+- Giải thích về các tính năng
 
 ## Hướng dẫn cài đặt
 1. Clone repository
