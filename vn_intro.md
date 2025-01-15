@@ -23,7 +23,6 @@ Hệ thống bao gồm các thành phần chính sau:
 - Hỗ trợ chế độ tối
 - Thiết kế responsive
 
-<<<<<<< HEAD:vn_intro.md
 ## Hướng dẫn cài đặt
 1. Clone repository
 2. Cài đặt các gói phụ thuộc
@@ -36,7 +35,6 @@ Hệ thống bao gồm các thành phần chính sau:
 - Quản lý phiên bản dữ liệu
 - Tạo báo cáo tùy chỉnh
 - Chức năng xuất/nhập dữ liệu
->>>>>>> 899c37c ([VN-File] ID Docs 14535463):docs/vn_intro.md
 
 ### Tính năng cộng tác
 - Chat thời gian thực
@@ -45,7 +43,6 @@ Hệ thống bao gồm các thành phần chính sau:
 - Hệ thống quản lý công việc
 - Phân quyền theo nhóm
 
-<<<<<<< HEAD:vn_intro.md
 ## Giấy phép
 Dự án này được phát hành dưới giấy phép MIT.
 =======
@@ -157,4 +154,3 @@ Dự án này được phát hành dưới giấy phép MIT.
 - Yêu cầu tính năng
 - Quy trình review code
 - Báo cáo bảo mật
->>>>>>> 899c37c ([VN-File] ID Docs 14535463):docs/vn_intro.md
