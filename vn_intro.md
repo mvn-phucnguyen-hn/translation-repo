@@ -1,6 +1,6 @@
 # Chào mừng đến với phiên bản tiếng Việt
 
-## Giới thiệu
+## Lời nói đầu
 Tài liệu này giải thích chi tiết về cách sử dụng cơ bản của hệ thống. Nó được thiết kế để dễ hiểu ngay cả với người mới bắt đầu. Chúng tôi cố gắng cung cấp hướng dẫn từng bước để đáp ứng nhu cầu của nhiều đối tượng người dùng, từ nhà phát triển có kinh nghiệm đến người mới bắt đầu.
 
 ## Tổng quan hệ thống
