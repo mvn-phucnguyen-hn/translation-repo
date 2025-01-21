@@ -3,7 +3,7 @@ name: PR Notification
 on:
   pull_request:
     branches:
-      - main
+      - main_JP
     types: [opened, reopened, synchronize]
 
 jobs:
