@@ -35,4 +35,5 @@ Git là hệ thống quản lý phiên bản phân tán (distributed version con
 Nếu bạn cần hỗ trợ thêm, hãy tham khảo tài liệu chính thức hoặc cộng đồng Git.
 
 ## Giấy phép
-Dự án này được phát hành dưới giấy phép MIT. 
+Dự án này được phát hành dưới giấy phép MIT.
+ 
