@@ -9,10 +9,17 @@
    - Ẩm thực Việt Nam
    - Nghệ thuật và văn học Việt Nam
 
+<<<<<<< HEAD
 2. Địa điểm du lịch Việt Nam
    - Tháp Rùa
    - Chùa Một Cột
    - Núi Fansipan
+=======
+2. 日本の観光地
+   - 東京タワー
+   - 京都の寺院
+   - おいしい富士山
+>>>>>>> prepare_doc_jp
 
 3. Lịch sử Việt Nam
    - Việt Nam cổ đại
@@ -24,9 +31,17 @@
    - Sự khác biệt giữa các phương ngữ
    - Phương pháp học tiếng Việt
 
+<<<<<<< HEAD
 5. Công nghệ Việt Nam
    - Khoa học công nghệ
    - Công nghệ thông tin
    - Công nghệ môi trường
+=======
+5. 日本の技術
+   - ロボット工学
+   - 情報技術
+   - 環境技術
+   - 自動車技術
+>>>>>>> main_doc_jp
 
 Như vậy, Việt Nam có nhiều chủ đề thú vị. Nếu bạn muốn biết thêm thông tin chi tiết, hãy tham khảo các nguồn tài liệu khác.
