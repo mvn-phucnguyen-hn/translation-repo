@@ -31,9 +31,17 @@
    - Sự khác biệt giữa các phương ngữ
    - Phương pháp học tiếng Việt
 
+<<<<<<< HEAD
 5. Công nghệ Việt Nam
    - Khoa học công nghệ
    - Công nghệ thông tin
    - Công nghệ môi trường
+=======
+5. 日本の技術
+   - ロボット工学
+   - 情報技術
+   - 環境技術
+   - 自動車技術
+>>>>>>> main_doc_jp
 
 Như vậy, Việt Nam có nhiều chủ đề thú vị. Nếu bạn muốn biết thêm thông tin chi tiết, hãy tham khảo các nguồn tài liệu khác.
