@@ -1,6 +1,6 @@
 ## Mô tả về flow tương tác với Markdown
 
-1. **Bắt đầu**: Người dùng nhập nội dung vào một trình soạn thảo Markdown.
+1.1 **Bắt đầu**: Người dùng nhập nội dung vào một trình soạn thảo Markdown.
 2. **Xử lý**: Hệ thống sẽ phân tích cú pháp của nội dung Markdown để xác định các thành phần như tiêu đề, danh sách, và đoạn văn.
 3. **Hiển thị**: Nội dung được chuyển đổi thành HTML và hiển thị trên giao diện người dùng.
 3. **表示**: Nội dung preview được chuyển đổi thành HTML và hiển thị trên giao diện người dùng.  Đây là dòng đã bị thay đổi.
