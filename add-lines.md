@@ -8,3 +8,8 @@
    - Các lễ hội truyền thống của Việt Nam
    - Ẩm thực Việt Nam
    - Nghệ thuật và văn học Việt Nam
+
+2. 日本の観光地
+   - 東京タワー
+   - 京都の寺院
+   - おいしい富士山
