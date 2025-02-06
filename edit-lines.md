@@ -9,14 +9,7 @@
    - Ẩm thực Việt Nam
    - Nghệ thuật và văn học Việt Nam
 
-<<<<<<< HEAD
-2. Địa điểm du lịch Việt Nam
-   - Tháp Rùa
-   - Chùa Một Cột
-   - Núi Fansipan
-=======
-2. 日本の観光地
-   - 東京タワー
-   - 京都の寺院
-   - おいしい富士山
->>>>>>> prepare_jp_demo
+2. Điểm đến du lịch Nhật Bản
+   - Tháp Tokyo
+   - Đền chùa ở Kyoto
+   - Núi Phú Sĩ ngon tuyệt

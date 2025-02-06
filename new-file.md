@@ -1,5 +1,5 @@
-日本の技術
-   - ロボット工学
-   - 情報技術
-   - 環境技術
-   - 自動車技術
+Công nghệ Nhật Bản
+   - Kỹ thuật Robot
+   - công nghệ thông tin
+   - Công nghệ môi trường
+   - Công nghệ ô tô
