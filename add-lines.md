@@ -8,11 +8,7 @@
    - Các lễ hội truyền thống của Việt Nam
    - Ẩm thực Việt Nam
    - Nghệ thuật và văn học Việt Nam
-<<<<<<< HEAD
-=======
-
-2. 日本の観光地
-   - 東京タワー
-   - 京都の寺院
-   - きれいな富士山
->>>>>>> main_jp_demo
+2. Điểm đến du lịch Nhật Bản
+   - Tháp Tokyo
+   - Đền chùa ở Kyoto
+   - Núi Phú Sĩ tuyệt đẹp
