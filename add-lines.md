@@ -8,3 +8,7 @@
    - Các lễ hội truyền thống của Việt Nam
    - Ẩm thực Việt Nam
    - Nghệ thuật và văn học Việt Nam
+2. Điểm đến du lịch Nhật Bản
+   - Tháp Tokyo
+   - Đền chùa ở Kyoto
+   - Núi Phú Sĩ tuyệt đẹp
